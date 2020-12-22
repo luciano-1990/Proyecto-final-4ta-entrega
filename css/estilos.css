@@ -283,7 +283,7 @@ nav ul li a:hover{
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .contenedor-servicios ul li{
@@ -391,6 +391,7 @@ justify-content: space-around;
 }
 
 .container-fluid img{
+    width: 90%;
     margin: 10px;
     box-shadow: 5px 5px 50px;
     transition: 2s;
