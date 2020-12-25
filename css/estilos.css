@@ -126,44 +126,9 @@ header p,h2 {
      text-align: center;
 }
 
-/*
-.flex-segundo {    
-    display: flex;
-    margin: auto;
-    padding-bottom: 20px;
-    padding-top: 20px;
-    width: 80%;
-
-   }
-
-.flex-segundo div p {
-  
-    color: rgb(0, 0, 0);
-    font-size: 22px;
-    margin-bottom: 0;
-    padding: 60px 50px 50px 50px;   
-    text-align: justify;
-    
-  
-}
-
-.flex-segundo div img{
-    display: flex;
-    width: 250px;
-    height: 250px;
-    max-width: 250%;
-    max-height: 250px;
-    margin: auto;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    
-}
-
-*/
 
 
-
-/*GALERIA DE IMAGENES*/
+/*GALERIA DE IMAGENES.........................*/
 
 .imagenes { 
     padding: 40px 10px;
@@ -192,7 +157,7 @@ header p,h2 {
 }
 
 
-/* HEADER */
+/* HEADER.........................*/
 
 .contenedor input{
     display: none;
@@ -272,7 +237,7 @@ nav ul li a:hover{
 
 
 
-/* FLEXBOX PESTANA SERVICIOS */
+/* FLEXBOX PESTANA SERVICIOS......................... */
 
 
 
@@ -345,7 +310,7 @@ section .card p{
 }
 
 
-/* SECCION CONTACTO */
+/* SECCION CONTACTO......................... */
 
 
 .formulario {
@@ -380,7 +345,7 @@ justify-content: space-around;
     font-size: 1.5rem;
 }
 
-/*SECCION CLIENTES */
+/*SECCION CLIENTES......................... */
 
 .container-clientes div{
   padding: 0;
@@ -410,32 +375,3 @@ justify-content: space-around;
     
 }
 
-
-/*
-.flex-servicios{
-    
-    display: flex;
-    height: 5000px;
-    flex-wrap: wrap;
- 
-      
-}
-
-.flex-servicios li{
-    padding: 10px;
-    
-
-}
-
-.flex-servicios li img{
-    box-shadow: 5px 5px 10px gray;
-    width: 600px;
-    transition: transform 2s;
-}
-
-.flex-servicios li img:hover{
-   transform: scale(1.5);
- 
-}
-
-*/
