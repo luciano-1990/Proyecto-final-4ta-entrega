@@ -323,6 +323,51 @@ section .card p{
     margin-bottom: 100px;
 } 
 
+.caja_contacto{
+
+    display: flex;
+    width:  90%;
+    height: 200px;
+    margin: auto;
+
+    justify-content: space-around;
+
+}
+
+ 
+.caja_contacto_caja1 img{
+    margin: 20px 10px;
+}
+
+.caja_contacto_caja1 img{
+    margin: 20px 10px;
+    width: 80px;
+    
+
+}
+
+.caja_contacto_caja1 p{
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+
+.caja_contacto_caja2 img{
+    margin: 20px 10px;
+    width: 80px;
+}
+
+.caja_contacto_caja2 p{
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+
+
 /* SECCION UBICACION */
 
 
