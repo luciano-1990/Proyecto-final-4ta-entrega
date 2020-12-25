@@ -351,7 +351,7 @@ justify-content: space-around;
   padding: 0;
   display: flex;
   justify-content: center;
-  
+  border: solid rgb(255, 255, 255);
 
 }
 
